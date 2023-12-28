@@ -1,0 +1,38 @@
+{
+  "author": {
+    "name": "Will Parsons",
+    "url": "https://www.linkedin.com/in/twexxor/"
+  },
+  "bugs": {
+    "url": "https://entrocraft.com/contact/"
+  },
+  "description": "Convert UTF-16 to UTF-8 encoding.",
+  "funding": "https://entrocraft.com/pricing/",
+  "homepage": "https://entrocraft.com/dungeon/character-encoding-algorithms/utf-16-to-utf-8/",
+  "keywords": [
+    "bom",
+    "browser",
+    "client-side",
+    "conversion",
+    "convert",
+    "converter",
+    "server-side",
+    "transcode",
+    "transcoder",
+    "unicode",
+    "utf-8",
+    "utf-16",
+    "utf-16be",
+    "utf-16le",
+    "utf8",
+    "utf16",
+    "utf16be",
+    "utf16le"
+  ],
+  "license": "MIT",
+  "name": "@entrocraft/utf-16-to-utf-8",
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "1.0.2"
+}
